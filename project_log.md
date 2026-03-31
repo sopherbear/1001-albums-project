@@ -8,5 +8,6 @@
 | 3/24/26 | Looked into possible technologies for the project and brainstormed how to create vectors for songs with AI | 1.5 |
 | 3/26/26 | Drew up ERD and initial project design, researched info for vectorizing songs. | 2.0 |
 | 3/29/26 | Discussed my design with a couple other developers, added nodes to graph db. | 1.5 |
-|  | TOTAL: | 12.5 |
+| 3/30/26 | Gave feedback on other projects, added nodes to graph db | 1.5 |
+|  | TOTAL: | 14 |
 
