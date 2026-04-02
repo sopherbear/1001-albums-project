@@ -9,5 +9,6 @@
 | 3/26/26 | Drew up ERD and initial project design, researched info for vectorizing songs. | 2.0 |
 | 3/29/26 | Discussed my design with a couple other developers, added nodes to graph db. | 1.5 |
 | 3/30/26 | Gave feedback on other projects, added nodes to graph db | 1.5 |
-|  | TOTAL: | 14 |
+| 4/1/26 | Did project interviews, retrieved songs from musicBrainz API and added them to db. | 2.75 |
+|  | TOTAL: | 16.75 |
 
