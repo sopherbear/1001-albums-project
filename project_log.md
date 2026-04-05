@@ -10,5 +10,7 @@
 | 3/29/26 | Discussed my design with a couple other developers, added nodes to graph db. | 1.5 |
 | 3/30/26 | Gave feedback on other projects, added nodes to graph db | 1.5 |
 | 4/1/26 | Did project interviews, retrieved songs from musicBrainz API and added them to db. | 2.75 |
-|  | TOTAL: | 16.75 |
+| 4/3/26 | Started song logging, found some albums aren't being located on musicBrainz, so added a txt file for those songs. | 1.5|
+| 4/4/26 | Worked on adding songs for albums that weren't found on musicBrainz initial runthrough| 3.0 |
+|  | TOTAL: | 21.25 |
 
