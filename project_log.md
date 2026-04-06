@@ -12,5 +12,6 @@
 | 4/1/26 | Did project interviews, retrieved songs from musicBrainz API and added them to db. | 2.75 |
 | 4/3/26 | Started song logging, found some albums aren't being located on musicBrainz, so added a txt file for those songs. | 1.5|
 | 4/4/26 | Worked on adding songs for albums that weren't found on musicBrainz initial runthrough| 3.0 |
-|  | TOTAL: | 21.25 |
+| 4/6/26 | Got albumIds for albums that weren't searching as is | 3.0 |
+|  | TOTAL: | 24.25 |
 
